@@ -72,7 +72,7 @@ const dmax = maxDate.toISOString().slice(0, 10);
                                         <td>R$ {sale.amount.toFixed(2)}</td>
                                         <td>
                                             <div className="red-btn-container">
-                                                <NotificationButton />
+                                                <NotificationButton saleId={sale.id} />
                                             </div>
                                         </td>
                                     </tr>
