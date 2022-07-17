@@ -1,5 +1,5 @@
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React - Edição Julho/22
-Projeto de app completo com integração SMS para notificações, realizado em monorepo  dividido em 3 episódios, onde cada episódio o professor [Nelio Alves](https://github.com/acenelio) explica passo-a-passo para realizá-lo. O site em deploy pode ser visto <a href="https://rico-dsmmeta.netlify.app/" target="_blank">aqui</a>.
+Projeto de app completo com integração SMS para notificações, realizado em monorepo  dividido em 3 episódios, onde cada episódio o professor [Nelio Alves](https://github.com/acenelio) explica passo-a-passo para realizá-lo. O site em deploy pode ser visto <a href="https://rico-dsmeta.netlify.app/" target="_blank">aqui</a>.
 
 ## Tecnologias
 O sistema utiliza ReactJS em seu front-end e Java com Springboot no back-end.
